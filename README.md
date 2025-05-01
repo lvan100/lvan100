@@ -8,12 +8,6 @@
 - [Go-Spring](https://github.com/go-spring/spring-core) - 让 Go 应用开发更简单、更优雅。
 - 更多有趣的小工具和实践案例，持续更新中 🚀
 
-## 📫 联系我
-
-- GitHub: [[lvan100](https://github.com/lvan100)]
-- 邮箱: [[email](lvan100@yeah.net)]
-- 微信/公众号（可选）
-
 ---
 
 # 👋 Hi, I'm [lvan100]!
@@ -25,9 +19,3 @@ Author of [Go-Spring](https://github.com/go-spring/spring-core). Happy to connec
 
 - [Go-Spring](https://github.com/go-spring/spring-core) - Simplifying and empowering Go application development.
 - More interesting tools and practice cases are coming soon! 🚀
-
-## 📫 Contact Me
-
-- GitHub: [[lvan100](https://github.com/lvan100)]
-- Email: [[email](lvan100@yeah.net)]
-- WeChat / Official Account (optional)
